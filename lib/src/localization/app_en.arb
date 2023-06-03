@@ -1,0 +1,6 @@
+{
+  "appTitle": "hive_tools",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
